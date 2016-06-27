@@ -1,6 +1,6 @@
 {
   "name": "leaps-model",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "leaps-model is javascript library that supports RESTful HTTP request.",
   "main": "index.js",
   "scripts": {
