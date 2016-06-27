@@ -1,0 +1,25 @@
+{
+  "name": "leaps-model",
+  "version": "0.0.1",
+  "description": "leaps-model is javascript library that supports RESTful HTTP request.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/soplana/leaps-model.git"
+  },
+  "keywords": [
+    "model",
+    "RESTful",
+    "request",
+    "ajax"
+  ],
+  "author": "soplana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soplana/leaps-model/issues"
+  },
+  "homepage": "https://github.com/soplana/leaps-model#readme"
+}
